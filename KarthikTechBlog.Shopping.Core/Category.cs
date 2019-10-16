@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace KarthikTechBlog.Shopping.Core
-{    
+{
     public class Category
     {
         public int Id { get; set; }

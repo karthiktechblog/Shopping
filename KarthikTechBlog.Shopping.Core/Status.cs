@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace KarthikTechBlog.Shopping.Core
+﻿namespace KarthikTechBlog.Shopping.Core
 {
     public enum Status
     {
